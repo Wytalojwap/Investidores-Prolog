@@ -1,0 +1,8 @@
+    /*O homem de camiseta Verde está ao lado do homem do Paraná*/apolo
+	(
+        Colete_1 == verde, Idade_2 == quarentaEcinco;
+    	Colete_2 == verde, (Idade_1 == quarentaEcinco ; Idade_3 == quarentaEcinco);
+        Colete_3 == verde, (Idade_2 == quarentaEcinco ; Idade_4 == quarentaEcinco);
+        Colete_4 == verde, (Idade_3 == quarentaEcinco ; Idade_5 == quarentaEcinco);
+        Colete_5 == verde, (Idade_4 == quarentaEcinco)
+	),
